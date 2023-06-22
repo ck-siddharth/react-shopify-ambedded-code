@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/shopify-embedded-code/static/js/main.6288ac42.js",
+    "index.html": "/shopify-embedded-code/index.html",
+    "main.6288ac42.js.map": "/shopify-embedded-code/static/js/main.6288ac42.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6288ac42.js"
+  ]
+}
